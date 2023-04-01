@@ -3,6 +3,7 @@ void main(){
   print(list);
   print(list.length);
   print(list.reversed);
+  print(list[2]);
 
   list.add('E');
   print(list);
